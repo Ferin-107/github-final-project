@@ -1,0 +1,10 @@
+# Contributing Guidelines
+
+Thank you for considering contributing to the Simple Calculator project! Follow these guidelines to submit your contributions:
+
+## How to Contribute
+
+1. **Fork the Repository**: Create a personal copy of the repository by clicking the **Fork** button.
+2. **Clone the Repository**: Clone your fork to your local machine:
+   ```bash
+   git clone [https://github.com/your-username/github-final-project.git](https://github.com/your-username/github-final-project.git)
